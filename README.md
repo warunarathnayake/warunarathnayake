@@ -8,7 +8,7 @@ I am a full-stack developer who loves java and angular
 
 * 🌍  I'm based in Sri Lanka
 * ⚡  I'm interested in software designing and development
-* 🚀  I'm currently working on a content customization and digitization project in the insurtech industry
+* 🚀  I'm currently working on a content customization and digitization projects in the insurtech industry
 * 🤝  I'm open to collaborating on software development projects
 * ✉️  You can contact me at [rathnayakewaruna@gmail.com](mailto:rathnayakewaruna@gmail.com)
 
